@@ -11,3 +11,5 @@ R
 "tests/interstellar-trading.test.ts,2/c/2c4f9ae823e388ca8b4a1759083691ed78039169
 P
  contracts/value-equivalence.clar,a/6/a626d0c46dab9db7645ea366264f7c8f2787edab
+O
+tests/value-equivalence.test.ts,2/d/2dc772ec5c22997fda60daf997bd7bc1491abd60
