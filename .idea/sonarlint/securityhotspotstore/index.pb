@@ -7,3 +7,5 @@ $contracts/resource-registration.clar,3/6/36af72c6e1cc7de82d7edf2117f4f32f5a7e3
 Clarinet.toml,9/d/9d284ad9ceb4c6d6525244c8f2230e5943b9c9b2
 S
 #contracts/interstellar-trading.clar,d/5/d55ce32ce8c0fb05a22ed5dc775fb26d95fab33c
+R
+"tests/interstellar-trading.test.ts,2/c/2c4f9ae823e388ca8b4a1759083691ed78039169
