@@ -15,3 +15,5 @@ O
 tests/value-equivalence.test.ts,2/d/2dc772ec5c22997fda60daf997bd7bc1491abd60
 U
 %contracts/transport-coordination.clar,2/8/28c0de2d234583216e6859892e4c9525642447e8
+T
+$tests/transport-coordination.test.ts,7/5/75275fe9f4c0e068610c992f2a0dc67ce6e1177c
