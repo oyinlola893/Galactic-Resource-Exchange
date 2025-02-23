@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/interstellar-trading.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: value-equivalence
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/value-equivalence.clar
+            clarity-version: 2
       epoch: "2.5"

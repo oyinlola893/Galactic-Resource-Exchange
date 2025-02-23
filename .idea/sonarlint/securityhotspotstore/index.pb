@@ -9,3 +9,5 @@ S
 #contracts/interstellar-trading.clar,d/5/d55ce32ce8c0fb05a22ed5dc775fb26d95fab33c
 R
 "tests/interstellar-trading.test.ts,2/c/2c4f9ae823e388ca8b4a1759083691ed78039169
+P
+ contracts/value-equivalence.clar,a/6/a626d0c46dab9db7645ea366264f7c8f2787edab
